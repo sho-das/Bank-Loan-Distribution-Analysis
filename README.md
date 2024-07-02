@@ -16,10 +16,7 @@ Link: https://public.tableau.com/views/BankLoanReport_17199077227620/Summary?:la
     <title>Bank Loan Report Analysis</title>
 </head>
 <body>
-    <h1>Bank Loan Report Analysis</h1>
-
-    <h2>Excel File:</h2>
-    <!-- Option 1: Download Link -->
-    <p><a href="https://github.com/sho-das/Bank-Loan-Report-Analysis/blob/main/Excel%20File.xlsx" target="_blank" rel="noopener noreferrer">Download Excel File</a></p>
+    <a href="[https://github.com/sho-das/Bank-Loan-Report-Analysis/blob/main/Excel%20File.xlsx](https://github.com/sho-das/Bank-Loan-Report-Analysis/blob/main/Excel%20File.xlsx)" target="_blank" rel="noopener noreferrer">Download Excel File</a>
+</p>
 </body>
 </html>
