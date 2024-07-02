@@ -13,7 +13,7 @@ Link: https://public.tableau.com/views/BankLoanReport_17199077227620/Summary?:la
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Bank Loan Report Analysis</title>
+    https://github.com/sho-das/Bank-Loan-Report-Analysis/blob/main/Excel%20File.xlsx
 </head>
 <body>
     <h1>Bank Loan Report Analysis</h1>
